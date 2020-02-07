@@ -9,7 +9,7 @@ This is one of the 4 Github branches in this workspace:
 ### int/testapp
 You pick this branch if are an integrator and all you need is to quickly get started with the R2 Testapp. 
 
-1. git clone --recurse-submodules -b int/testapp https://github.com/readium/r2-workspace-kotlin.git r2-workspace-kotlin
+1. git clone --recurse-submodules -b int/testapp https://github.com/yongweihu/r2-workspace-kotlin.git r2-workspace-kotlin
 2. in Android Studio **Open an existing Android Studio project** and select the **r2-workspace-kotlin** directory
 3. run confuguration **r2-testapp** 
   
